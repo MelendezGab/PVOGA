@@ -1,6 +1,13 @@
 % Gabriel Melendez Melendez
 % October 2021
 % PVO-GA
+% 
+% For running PVO-GA you need to first configure the set_paths.m file with
+% the paths for the cover image and results in wich a txt file will be
+% produced with objective results of the individuals by generartion. 
+% 
+% GA is configured for running 20 generations, you can change it by
+% modifying the num_gen variable.  
 
 clearvars
 set_paths();

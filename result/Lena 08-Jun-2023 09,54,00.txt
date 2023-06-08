@@ -1,0 +1,385 @@
+
+img\
+
+ Generation -->0 -----------------------------------------------------------------------
+Individual(1,1)--> N:14 M:4, T1:128 T2:30 PSNR:59.9202
+Individual(1,2)--> N:12 M:4, T1:62 T2:19 PSNR:60.1882
+Individual(1,3)--> N:12 M:4, T1:62 T2:15 PSNR:60.314
+Individual(1,4)--> N:12 M:4, T1:58 T2:15 PSNR:60.3346
+Individual(2,1)--> N:9 M:5, T1:58 T2:15 PSNR:60.2981
+Individual(2,2)--> N:10 M:5, T1:58 T2:15 PSNR:60.479
+Individual(2,3)--> N:10 M:5, T1:62 T2:15 PSNR:60.4605
+Individual(2,4)--> N:10 M:5, T1:68 T2:15 PSNR:60.4373
+Individual(3,1)--> N:14 M:4, T1:54 T2:23 PSNR:60.2385
+Individual(3,2)--> N:10 M:5, T1:48 T2:17 PSNR:60.4325
+Individual(3,3)--> N:8 M:5, T1:62 T2:15 PSNR:60.1731
+Individual(3,4)--> N:12 M:5, T1:137 T2:34 PSNR:59.9564
+Individual(4,1)--> N:14 M:4, T1:63 T2:30 PSNR:60.0412
+Individual(4,2)--> N:7 M:7, T1:71 T2:14 PSNR:60.3569
+Individual(4,3)--> N:10 M:5, T1:74 T2:14 PSNR:60.4292
+Individual(4,4)--> N:12 M:5, T1:66 T2:29 PSNR:60.1527
+ Generation -->1 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+ Generation -->2 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+ Generation -->3 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+ Generation -->4 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+ Generation -->5 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+ Generation -->6 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+ Generation -->7 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+ Generation -->8 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+ Generation -->9 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+ Generation -->10 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+ Generation -->11 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+ Generation -->12 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+ Generation -->13 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+ Generation -->14 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+ Generation -->15 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+ Generation -->16 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+ Generation -->17 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+ Generation -->18 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+ Generation -->19 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+ Generation -->20 -----------------------------------------------------------------------
+Individual(1,1)--> N:16 M:15, T1:130 T2:100 PSNR:0
+Individual(1,2)--> N:7 M:10, T1:238 T2:85 PSNR:59.5204
+Individual(1,3)--> N:9 M:8, T1:247 T2:19 PSNR:0
+Individual(1,4)--> N:14 M:9, T1:62 T2:50 PSNR:0
+Individual(2,1)--> N:9 M:7, T1:123 T2:70 PSNR:59.6393
+Individual(2,2)--> N:4 M:12, T1:36 T2:70 PSNR:59.2851
+Individual(2,3)--> N:12 M:5, T1:67 T2:25 PSNR:60.2471
+Individual(2,4)--> N:7 M:6, T1:62 T2:50 PSNR:59.5077
+Individual(3,1)--> N:14 M:16, T1:132 T2:63 PSNR:0
+Individual(3,2)--> N:7 M:8, T1:241 T2:88 PSNR:59.3652
+Individual(3,3)--> N:14 M:5, T1:181 T2:70 PSNR:59.6384
+Individual(3,4)--> N:14 M:4, T1:137 T2:34 PSNR:59.8569
+Individual(4,1)--> N:7 M:10, T1:237 T2:189 PSNR:59.1664
+Individual(4,2)--> N:7 M:10, T1:247 T2:51 PSNR:59.8137
+Individual(4,3)--> N:7 M:8, T1:247 T2:51 PSNR:59.686
+Individual(4,4)--> N:14 M:4, T1:245 T2:215 PSNR:59.1641
+
+
+ Best fitness value per generation
+
+59.8137
+59.8137
+59.8137
+60.2471
+60.2471
+60.4605
+60.4605
+60.4605
+60.4605
+60.4605
+60.4605
+60.4605
+60.4605
+60.4605
+60.4605
+60.4605
+60.479
+60.479
+60.479
+60.479
+60.479
