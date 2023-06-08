@@ -2,7 +2,7 @@ clearvars
 set_paths;
 global image_path
 
-message_length = 10000;  
+message_length = 37500;  
 message = num2str(round(rand(1,message_length)));   
 message = message(~isspace(message));
 
@@ -12,10 +12,10 @@ Ic = Ic(:,:,1);
 [Ipr,Rs] = image_preprocessing(Ic);
 [Rsc] = compress_rs(Rs);
 
-n = 10;
-m = 4;
-T1 = 13;
-T2 = 12;
+n = 11;
+m = 5;
+T1 = 68;
+T2 = 18;
 tic
 [blocks_array, NL] = get_blocks(Ipr,n,m);
 [Iw,p_counter,~] = data_embedding(Ipr,blocks_array,NL,Rsc,message,T1,T2,n,m);

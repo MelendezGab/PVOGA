@@ -9,10 +9,10 @@ set_paths();
 global image_path results_path;
 
 % Create a random binary sequence as payload
-payload_length=10000;  
+payload_length=37000;  
 %message = num2str(round(rand(1,payload_length)));   
 %message = message(~isspace(message));
-load('C:\Users\Gabriel\Documents\GitHub\PVOGA\resources\10000.mat');
+load('C:\Users\Gabriel\Documents\GitHub\PVOGA\resources\marcas\37500.mat');
 message = mensaje;
 image_name = 'Lena';
 Ic = imread(strcat(image_path,image_name,'.tiff'));
@@ -52,7 +52,7 @@ for i = 1:4
 end
 
 disp('**************************** Begin generations ****************************');
-num_gen = 50;
+num_gen = 20;
 fit{1} = fitness;
 pob{1} = population;
 for i = 1:num_gen

@@ -106,5 +106,3 @@ for i=1:num_gen+1
     fprintf(filePh,'%s\n',num2str(max(a(:))));
 end
 fclose(filePh);
-
-%end;
